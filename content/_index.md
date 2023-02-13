@@ -26,7 +26,7 @@ sections:
   - block: markdown
     content:
       title: Astrophotography
-      subtitle: ''
+      subtitle: 'A mix of wide field and deep space photographs taken while stargazing'
       text: |-
         {{< gallery album="astro" >}}
     design:
