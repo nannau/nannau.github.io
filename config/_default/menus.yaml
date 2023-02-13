@@ -11,7 +11,7 @@ main:
     url: '#featured'
     weight: 50
   - name: Projects
-    url: #projects
+    url: '#projects'
     weight: 60
   - name: Astrophotography
     url: '#astro'
