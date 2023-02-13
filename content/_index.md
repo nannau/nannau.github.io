@@ -23,7 +23,7 @@ sections:
     design:
       columns: '2'
       view: card
-  - block: markdown
+  - block: collection
     id: astro
     content:
       title: Astrophotography
