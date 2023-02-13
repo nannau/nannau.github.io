@@ -10,7 +10,7 @@ main:
   - name: Publications
     url: '#featured'
     weight: 50
-  - name: Gallary
+  - name: Astrophotography
     url: '#gallary'
     weight: 60
 

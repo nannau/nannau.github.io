@@ -25,7 +25,7 @@ sections:
       view: card
   - block: markdown
     content:
-      title: Gallery
+      title: Astrophotography
       subtitle: ''
       text: |-
         {{< gallery album="astro" >}}
