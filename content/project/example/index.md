@@ -15,15 +15,15 @@ image:
 
 links:
   - icon: code
-    icon_pack: far
+    icon_pack: fas
     name: Code
     url: https://github.com/pacificclimate/design-value-explorer
   - icon: browser
-    icon_pack: far
+    icon_pack: fas
     name: Design Value Explorer
     url: https://services.pacificclimate.org/design-value-explorer/?dv=HDD
   - icon: pdf
-    icon_pack: far
+    icon_pack: fas
     name: Methods
     url: https://pacificclimate.org/sites/default/files/DVE_methods_final.pdf
 
