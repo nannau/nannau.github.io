@@ -24,6 +24,7 @@ sections:
       columns: '2'
       view: card
   - block: markdown
+    id: astro
     content:
       title: Astrophotography
       subtitle: 'A mix of wide field and deep space photographs taken while stargazing'
