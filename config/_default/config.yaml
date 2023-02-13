@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Nic Annau # Website name
-baseURL: 'coruscating-pika-3cca81.netlify.app' # Website URL
+baseURL: 'nannau.netlify.app' # Website URL
 
 ############################
 ## LANGUAGE
@@ -73,3 +73,5 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+
+background-image: url("/images/IMG_2864.JPG")
