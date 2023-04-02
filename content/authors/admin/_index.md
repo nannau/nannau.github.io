@@ -21,11 +21,11 @@ organizations:
     url: https://www.uvic.ca
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include artificial intelligence, climate science, and statistical downscaling.
+bio: My research interests include computer vision, climate science, and statistical downscaling.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - Computer vision
   - Statistical downscaling of climate models
   - Climate science and physics
   - Astronomy and astrophysics
@@ -71,5 +71,5 @@ email: 'nannau@uvic.ca'
 highlight_name: true
 ---
 
-My name is Nic, and this is my personal website (currently under development!) to organize projects that I am interested or involved in. I am a physical scientist with Environment and Climate Change Canada currently interested in using artificial intelligence for statistical downscaling. I am interests include generative models, computer vision, generative adversarial networks, and statistical downscaling.
+My name is Nic, and this is my personal website (currently under development!) to organize projects that I am interested or involved in. I am a physical scientist with Environment and Climate Change Canada currently interested in using computer vision for statistical downscaling.
 {style="text-align: justify;"}
